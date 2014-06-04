@@ -1,5 +1,5 @@
 {
-    "name": "artdarek/neo4j-4-laravel",
+    "name": "tomcorbett/neo4j-4-laravel",
     "type": "library",    
     "description": "Neo4j for Laravel 4.",
     "keywords": ["Neo4j","Database","laravel","laravel4","Service provider","neo4jphp"],
@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "everyman/neo4jphp":"dev-master"
+        "tomcorbett/neo4jphp":"dev-master"
     },
     "require-dev": {  
         "illuminate/support": "4.0.*"
